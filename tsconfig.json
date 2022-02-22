@@ -14,5 +14,6 @@
     "lib": ["es2017", "es5", "dom"],
     "types": ["cypress"],
     "plugins": [{ "name": "tslint-language-service" }]
-  }
+  },
+  "include": ["**/*.ts"]
 }
